@@ -22,4 +22,6 @@ Type 'q()' to quit R.
 [Workspace restored from /Users/jiaqingze/.RData]
 [History restored from /Users/jiaqingze/.Rapp.history]
 
-> 
+> robysr
+
+sum length
