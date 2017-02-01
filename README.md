@@ -1,6 +1,6 @@
 # First phase
 
-urning and turning in the widening gyre
+turning and turning in the widening gyre
 
 The falcon cannot hear the falconer;
 
